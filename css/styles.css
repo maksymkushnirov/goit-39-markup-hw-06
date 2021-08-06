@@ -872,7 +872,7 @@ img {
   text-decoration: underline;
   color: var(--color-accent-primary);
 }
-.mmodal-form-button {
+.modal-form-button {
   display: block;
   padding: 10px 56px;
   margin-left: auto;

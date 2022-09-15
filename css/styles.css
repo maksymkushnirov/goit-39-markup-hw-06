@@ -2,8 +2,8 @@
 
 /* root-start */
 :root {
-  --font-family-primary: "Roboto", sans-serif;
-  --font-family-secondary: "Raleway", sans-serif;
+  --font-family-primary: 'Roboto', sans-serif;
+  --font-family-secondary: 'Raleway', sans-serif;
   --border-form: 1px solid rgba(33, 33, 33, 0.2);
   --color-main: #757575;
   --color-white-primary: #ffffff;
@@ -148,7 +148,7 @@ img {
   transition: color 250ms var(--timing-function);
 }
 .list-nav-header-item-link.current::after {
-  content: "";
+  content: '';
   display: block;
   justify-content: center;
   position: absolute;
@@ -852,7 +852,7 @@ img {
   width: 16px;
   height: 15px;
   margin-right: 7px;
-  content: "";
+  content: '';
   border: 2px solid var(--color-dark-primary);
   border-radius: 2px;
   transition: border 250ms var(--timing-function);
